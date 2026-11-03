@@ -36,7 +36,3 @@ Dữ liệu sau phân tích được chia thành 5 nhóm:
 
 - Power BI (dựng dashboard, DAX)
 - Excel/SQL cho xử lý và tính toán dữ liệu
-
-## Tác giả
-
-Trần Hoàng Long
